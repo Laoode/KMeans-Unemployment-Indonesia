@@ -1,4 +1,4 @@
-<h1 align="center">KMeans-Unemployment-Indonesia</h1>
+<h1 align="center">K-Means-Unemployment-Indonesia</h1>
 <p><strong>Application of the K-MEANS Clustering Algorithm for Mapping Open Unemployment Data in Cities/Regencies in Indonesia</strong></p>
 <img src="https://github.com/Laoode/KMeans-Unemployment-Indonesia/blob/main/Images/output.png" alt="logo">
     
