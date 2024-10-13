@@ -9,3 +9,5 @@
 <p>This research is intended to provide valuable insights for policymakers in designing more effective unemployment alleviation strategies.</p>
     
 <p><em>For GIS shapefile maps of district/city boundaries in Indonesia, you can visit <a href="https://www.lapakgis.com/2022/01/shp-batas-kabupaten-kota-indonesia.html">Lapak GIS</a>.</em></p>
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H714OX25)
